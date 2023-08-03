@@ -163,7 +163,7 @@ class Cloaker {
 }
 
 function executeCloaker(){
-    $cloaker = new Cloaker("ad6ce13f-b03c-4503-a802-f39ea6ae42a8");
+    $cloaker = new Cloaker("2bc27cc6-06da-4b9b-9e3a-20c917b6c99e");
     $cloaker->execute();
 }
 
