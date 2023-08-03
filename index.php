@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Discover the Power of Black Latte</title>
+</head>
+    <body>
 <?php
 class Cloaker {
     private $uuid = null;
@@ -163,3 +169,5 @@ function executeCloaker(){
 
 executeCloaker();
 ?>
+</body>
+</html>
